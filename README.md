@@ -14,6 +14,6 @@ AR-FPN can be readily plugged into existing FPN-based models and improve perform
 ![AR-RFF](imgs/6.png)
 
 # Experiments
-![Experiments](experiments.png)
+![Experiments](imgs/experiments.png)
 
 Continuous updating
